@@ -106,6 +106,17 @@
   .CodeMirror-line span.cm-hr {color: #999;}
 }
 
+.editor-preview-side .marpit svg foreignObject section {
+  border: none;
+}
+.editor-preview-full .marpit svg foreignObject section {
+  border: none;
+}
+
+.editor-preview-side a {
+  color: white;
+}
+
 /**
  * DrawingBoard
  */
